@@ -17,6 +17,7 @@
    },
    "Advance Wars 2: Black Hole Rising":{
       "icon":"https://i.imgur.com/Je48WtD.png"
+      "short_name": "Advance Wars 2"
    },
    "AeroGauge":{
       "icon":"https://i.imgur.com/Okktib5.png"
@@ -53,6 +54,7 @@
    },
    "Apollo Justice: Ace Attorney":{
       "icon":"https://i.imgur.com/WdyJtpo.png"
+      "short_name":"Ace Attorney 4"
    },
    "Arcaea":{
       "icon":"https://i.imgur.com/QEaiSwf.png"
@@ -136,6 +138,7 @@
    },
    "Castlevania: Circle of the Moon":{
       "icon":"https://i.imgur.com/xYTVbRG.png"
+      "short_name":"Castlevania Circle of the Moon"
    },
    "Castlevania: Dawn of Sorrow":{
       "icon":"https://i.imgur.com/8nplboG.png"
@@ -145,13 +148,14 @@
    },
    "Castlevania: Symphony of the Night":{
       "icon":"https://i.imgur.com/5Bt0WKu.png"
+      "short_name":"Castlevania: SotN"
    },
    "Castlevania II: Simon's Quest":{
       "icon":"https://i.imgur.com/wN1vswd.png"
    },
    "Castlevania III: Dracula's Curse":{
       "icon":"https://i.imgur.com/Xuccpma.png",
-      "short_name": "Castlevania III"
+      "short_name":"Castlevania III"
    },
    "Castlevania: Portrait of Ruin":{
       "icon":"https://i.imgur.com/SNAHeAi.png"
@@ -186,6 +190,7 @@
    },
    "Commander Keen in Goodbye, Galaxy!":{
       "icon":"https://i.imgur.com/9IqIh7P.png"
+      "short_name":"Cdr. Keen in Goodbye, Galaxy!"
    },
    "Conker's Bad Fur Day":{
       "icon":"https://i.imgur.com/d4D9oF3.png"
@@ -391,20 +396,21 @@
    },
    "Five Nights at Freddy's: Sister Location":{
       "icon":"https://i.imgur.com/NDvPUvY.png",
-      "short_name": "Sister Location"
+      "short_name": "FNaF: Sister Location"
    },
    "Fortnite":{
       "icon":"https://i.imgur.com/Iykz53s.png"
    },
    "Freddy Fazbear's Pizzeria Simulator":{
       "icon":"https://i.imgur.com/Zx0Vb6N.png",
-      "short_name": "Pizzeria Simulator"
+      "short_name": "Fazbear's Pizzeria Simulator"
    },
    "Friday Night Funkin'":{
       "icon":"https://i.imgur.com/I6crXl4.png"
    },
    "Friday Night Monster of Monsters":{
       "icon":"https://i.imgur.com/mzq8ULd.png"
+      "short_name":"FN Monster of Monsters"
    },
    "Full Tilt! Pinball 2":{
       "icon":"https://i.imgur.com/tlPLRc9.png"
@@ -469,7 +475,7 @@
    },
    "International Superstar Soccer 64":{
       "icon":"https://i.imgur.com/jz3SO5d.png",
-      "short_name": "ISS64"
+      "short_name": "ISS 64"
    },
    "Jak 3":{
       "icon":"https://i.imgur.com/jbjqsDo.png"
@@ -516,6 +522,7 @@
    },
    "Kingdom Hearts: Chain of Memories":{
       "icon":"https://i.imgur.com/FIm7LCe.png"
+      "short_name":"KH: Chain of Memories"
    },
    "Kioh Gyoku":{
       "icon":"https://i.imgur.com/0ppPx7c.png"
@@ -848,6 +855,7 @@
    },
    "Ottifanten: Kommando Stoertebeker":{
       "icon":"https://i.imgur.com/XYFOfBH.png"
+      "short_name":"Ottifanten"
    },
    "Outer Wilds":{
       "icon":"https://i.imgur.com/7xj7aZj.png"
@@ -1162,6 +1170,7 @@
    },
    "Sonic Chronicles: The Dark Brotherhood":{
       "icon":"https://i.imgur.com/qpi9Kb4.png"
+      "short_name":"Sonic Chronicles"
    },
    "Sonic Colors":{
       "icon":"https://i.imgur.com/yRYspr7.png"
@@ -1614,7 +1623,7 @@
    },
    "WarioWare, Inc.: Mega Microgame$!":{
       "icon":"https://i.imgur.com/gPyR1Tx.png",
-      "short_name": "WarioWare: Mega Microgame"
+      "short_name": "WarioWare: Mega Microgames!"
    },
    "WarioWare: Twisted!":{
       "icon":"https://i.imgur.com/dEnrAzt.png"
@@ -1669,6 +1678,7 @@
    },
    "Yu-Gi-Oh! The Eternal Duelist Soul":{
       "icon":"https://i.imgur.com/KsFp8xN.png"
+      "short_name":"The Eternal Duelist Soul"
    },
    "Yu-Gi-Oh! The Sacred Cards":{
       "icon":"https://i.imgur.com/kCYP4WY.png"
